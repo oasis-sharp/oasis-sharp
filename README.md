@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm probably the coolest ever
 
 <!--
 **oasis-sharp/oasis-sharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
