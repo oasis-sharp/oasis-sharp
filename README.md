@@ -1,5 +1,7 @@
 ### I'm probably the coolest ever
-
+- Practicing gamedev with fun little demos (GameMaker Studio 2)
+- Antweight robot enthusiast (on haitus til uni!!)
+- Learning to mod Smash Bros Ultimate right now
 <!--
 **oasis-sharp/oasis-sharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
