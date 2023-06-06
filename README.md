@@ -1,5 +1,12 @@
 ### I'm probably the coolest ever
 
+Currently working on 
+
+- A levels (man)
+- Making various game engine prototypes
+- Learning to collaborate with code better
+- Contributing to Super Smash Bros. Ultimate modding and maybe even making my own mod!
+
 <!--
 **oasis-sharp/oasis-sharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
