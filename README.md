@@ -2,7 +2,7 @@
 
 Currently working on 
 
-- My study of Electronic Engineering at University of Bath
+- My university degree! [Electronic Engineering at University of Bath]
 - Making various game engine prototypes in my spare time for fun, some of which I upload here!
 - Learning to collaborate with code better
 - Some video game modding, namely Super Smash Bros Ultimate
