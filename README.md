@@ -2,10 +2,12 @@
 
 Currently working on 
 
-- A levels (man)
-- Making various game engine prototypes
+- My study of Electronic Engineering at University of Bath
+- Making various game engine prototypes in my spare time for fun, some of which I upload here!
 - Learning to collaborate with code better
-- Contributing to Super Smash Bros. Ultimate modding and maybe even making my own mod!
+- Some video game modding, namely Super Smash Bros Ultimate
+
+My programming took a backseat in my life last year as I focussed on my studies more and set up my own custom controller modding business, however this year I plan to pick it back up, mainly in Python.
 
 <!--
 **oasis-sharp/oasis-sharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
